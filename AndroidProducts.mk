@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_rpi4.mk
+    $(LOCAL_DIR)/aicp_rpi4.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_rpi4-userdebug
+    aicp_rpi4-userdebug
